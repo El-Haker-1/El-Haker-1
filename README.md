@@ -62,7 +62,7 @@
 
 - 📧 الإيميل: yosefmekawy987@gmail.com  
 - 🎥 يوتيوب: [**El-Haker**](https://www.youtube.com/@El_Haker-u2n)
-- 🌍 موقع الأكاديمية: [El Haker Academy](https://yousef-mekawy.github.io/El-Haker-Academy/)
+- 🌍 موقع الأكاديمية: [El Haker Academy](https://el-haker-1.github.io/El-Haker-Academy/)
 - 💻 GitHub: [YousefMekawy](https://github.com/YousefMekawy)
 
 ---
